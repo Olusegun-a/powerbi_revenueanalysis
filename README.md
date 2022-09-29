@@ -1,2 +1,2 @@
 # powerbi_revenueanalysis
-Analysis unlock sale insights.
+Revenue and sales data analysis to unlock sale insights.
